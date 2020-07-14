@@ -1,0 +1,15 @@
+M48
+;DRILL file {KiCad (2016-08-20 BZR 7083)-product} date Wed Jun 27 19:48:59 2018
+;FORMAT={3:3/ absolute / metric / suppress leading zeros}
+FMAT,2
+METRIC,TZ
+T1C2.500
+%
+G90
+G05
+M71
+T1
+X12800Y85700
+X32600Y83100
+T0
+M30

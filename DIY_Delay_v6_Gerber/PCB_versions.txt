@@ -1,0 +1,5 @@
+2018. June. Componenets from Main placed on Controls board. Main discontinued.
+
+Current versions:
+Controls v6.0 June 2018
+MCU v4.0 June 2018
